@@ -1,2 +1,2 @@
-# Thesis_IDS_CAN_Bus
+# Thesis IDS CAN_Bus
 Bachelor thesis in Digital Forensics and Information Security.
